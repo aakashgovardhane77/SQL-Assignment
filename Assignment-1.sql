@@ -1,3 +1,4 @@
+CREATE DATABASE TodoList
 use TodoList
 
 CREATE TABLE Tasks (
